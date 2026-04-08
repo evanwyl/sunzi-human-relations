@@ -1,53 +1,104 @@
-# Sun Tzu principles for modern relationship and workplace judgment
+# 孙子兵法原则层
 
-Use these as the strategic layer. Do not quote them mechanically. Translate them into plain action logic.
+这份文件是 strategic layer，不是古文摘抄。
+
+使用时，每条原则至少要回答五件事：
+- 原句是什么
+- 出自哪里
+- 现代语境里是什么意思
+- 适用于什么局
+- 在这个 skill 里为什么成立
+
+不要机械引用。真正要做的是把古典原则翻译成现代关系判断。
+
+---
 
 ## 1. 知彼知己，百战不殆
-- Source: *Sun Tzu, 谋攻篇*
-- Modern use: Before acting, clarify what you want, what the other side wants, and where the interests diverge.
-- Apply when: motives are unclear, signals are mixed, the user wants to confront, confess, push, or escalate.
+- 原句：知彼知己，百战不殆
+- 出处：《孙子兵法·谋攻篇》
+- 现代解释：先搞清楚双方真实诉求、筹码、顾虑与底线，再决定动不动。很多人输，不是输在动作慢，而是输在没看清自己和对方到底在争什么。
+- 适用场景：动机不明、信号混杂、用户想摊牌、表白、逼问、升级冲突时
+- 在这个 skill 里怎么用：先拆“用户要什么、对方要什么、双方利益在哪里错位”，再决定是试探、推进还是后撤
+- 为什么成立：很多表面问题只是情绪现象，真正的分水岭在于双方诉求与筹码是否对称
+- 禁误用提醒：不是鼓励过度猜心，也不是让用户无限拖延；信息足够时就该下判断
 
 ## 2. 先为不可胜，以待敌之可胜
-- Source: *Sun Tzu, 军形篇*
-- Modern use: Build a position where you are not easily damaged first, then wait for the right opening.
-- Apply when: the user is emotionally exposed, underpowered, or rushing into a bad fight.
+- 原句：先为不可胜，以待敌之可胜
+- 出处：《孙子兵法·军形篇》
+- 现代解释：先把自己放到不容易受伤的位置，再等合适时机，而不是情绪上头就先冲出去。
+- 适用场景：用户情绪暴露、筹码弱、对方更占节奏、局势暂时不利时
+- 在这个 skill 里怎么用：优先建议用户稳住边界、控制暴露、减少无谓投入，再决定要不要进一步动作
+- 为什么成立：很多人际局不是输在判断错，而是输在太早把底牌和情绪交出去
+- 禁误用提醒：这不是永远不动，更不是消极躲避；重点是先稳位，再出手
 
 ## 3. 上兵伐谋，其次伐交，其次伐兵，其下攻城
-- Source: *Sun Tzu, 谋攻篇*
-- Modern use: Change the situation and incentives before moving into direct confrontation.
-- Apply when: the user wants to argue head-on, call someone out, or force clarity too early.
+- 原句：上兵伐谋，其次伐交，其次伐兵，其下攻城
+- 出处：《孙子兵法·谋攻篇》
+- 现代解释：最高明的做法不是正面硬刚，而是先改局、改叙事、改结构、改激励，让冲突自己降级。
+- 适用场景：用户想正面质问、公开对抗、逼对方立刻表态时
+- 在这个 skill 里怎么用：优先给结构性动作，比如改沟通场域、改分工机制、改边界规则，而不是一上来情绪对撞
+- 为什么成立：很多冲突不是靠赢口头仗解决，而是靠改变结构解决
+- 禁误用提醒：不是任何时候都不能正面说清楚，而是先判断正面冲突值不值得
 
 ## 4. 避实而击虚
-- Source: *Sun Tzu, 虚实篇*
-- Modern use: Do not press where the other side is strongest. Find the soft point, the timing gap, or the indirect route.
-- Apply when: direct pressure will backfire, trigger defensiveness, or worsen power imbalance.
+- 原句：避实而击虚
+- 出处：《孙子兵法·虚实篇》
+- 现代解释：别在对方最强的位置硬碰，找更软的切口、更好的时机、更有信息量的打法。
+- 适用场景：正面推进容易被拒绝、被压制、被防御性反击时
+- 在这个 skill 里怎么用：把“直接问”“直接吵”“直接表态”改成更低成本的试探、换场、换题、换顺序
+- 为什么成立：不是所有真话都要正着说，尤其当对方在当前场域更占优势时
+- 禁误用提醒：不是搞小动作，而是避免在最不利的位置做最贵的动作
 
 ## 5. 兵贵胜，不贵久
-- Source: *Sun Tzu, 作战篇*
-- Modern use: Do not let drag and ambiguity consume you forever. If a pattern is clear, resolve or exit.
-- Apply when: the user is stuck in recurring loops, endless testing, or low-return pursuit.
+- 原句：兵贵胜，不贵久
+- 出处：《孙子兵法·作战篇》
+- 现代解释：关系里的长期模糊、反复拉扯、本身就是成本。局一旦看清，就该止拖、止耗、止损。
+- 适用场景：长期暧昧、循环争吵、反复试探、低回报投入时
+- 在这个 skill 里怎么用：当重复模式已经明显，就建议收口，别再把时间耗在幻想性修复上
+- 为什么成立：很多关系不是没答案，而是用户不愿接受那个答案
+- 禁误用提醒：不是让人草率断联，而是提醒别把拖延误当希望
 
 ## 6. 以正合，以奇胜
-- Source: *Sun Tzu, 势篇*
-- Modern use: Use a stable visible posture, but win through timing, framing, sequencing, or an unexpected angle.
-- Apply when: the user needs to move without looking reactive or desperate.
+- 原句：以正合，以奇胜
+- 出处：《孙子兵法·势篇》
+- 现代解释：表面上保持稳定、体面、正常，真正赢面来自时机、 framing、顺序和出手角度。
+- 适用场景：用户既想表达立场，又不想显得过激、掉价、上头时
+- 在这个 skill 里怎么用：建议用户保持基本体面和稳定姿态，同时通过节奏、切口、顺序拿回主动权
+- 为什么成立：很多高质量动作，看起来不激烈，但其实更有效
+- 禁误用提醒：不是故作高深，也不是花活；重点是稳外形，换打法
 
 ## 7. 善战者，求之于势，不责于人
-- Source: *Sun Tzu, 势篇*
-- Modern use: Fix the situation structure instead of expecting ideal behavior from people.
-- Apply when: the user keeps hoping the other person will suddenly become clearer, kinder, fairer, or more mature.
+- 原句：善战者，求之于势，不责于人
+- 出处：《孙子兵法·势篇》
+- 现代解释：别把希望全押在“对方会突然变好”，要看结构能不能逼出更合理的行为。
+- 适用场景：用户一直期待对方变清楚、变负责、变成熟、变公平时
+- 在这个 skill 里怎么用：从“劝对方变好”转成“改边界、改节奏、改依赖、改结构”
+- 为什么成立：关系问题里，最不靠谱的就是把判断建立在理想人格上
+- 禁误用提醒：不是否认人会改变，而是别把自己的决策建立在空期待上
 
 ## 8. 不战而屈人之兵，善之善者也
-- Source: *Sun Tzu, 谋攻篇*
-- Modern use: The best result often comes from reducing conflict, removing dependence, reframing the board, or winning without open collision.
-- Apply when: direct battle is expensive, ugly, or unnecessary.
+- 原句：不战而屈人之兵，善之善者也
+- 出处：《孙子兵法·谋攻篇》
+- 现代解释：最好的胜利，不是狠狠干赢一场，而是用更低成本方式，让冲突失去继续的必要。
+- 适用场景：正面硬碰代价高、局面难看、但其实可以通过撤依赖、换路径、重设规则来解决时
+- 在这个 skill 里怎么用：优先建议用户通过降依赖、控暴露、换渠道、改规则来赢，而不是执着于口头上赢
+- 为什么成立：很多人想赢的是情绪场，但真正值得赢的是长期位置
+- 禁误用提醒：不是一味委曲求全，而是用更划算的方式拿结果
 
 ## 9. 计利以听，乃为之势，以佐其外
-- Source: *Sun Tzu, 始计篇*
-- Modern use: Judge advantage first, then shape momentum before acting in public.
-- Apply when: the user wants to make a move before enough preparation, evidence, support, or timing exists.
+- 原句：计利以听，乃为之势，以佐其外
+- 出处：《孙子兵法·始计篇》
+- 现代解释：先算清利弊，再造势。没有准备、没有节奏、没有支点时，贸然动作通常只会把自己送进被动。
+- 适用场景：用户很想马上行动，但证据、支持、 timing 都不够时
+- 在这个 skill 里怎么用：先帮用户判断是否该补信息、补留痕、补支点，再决定是否公开出手
+- 为什么成立：很多失败动作不是方向错，而是时机和准备差
+- 禁误用提醒：不是让人永远准备不行动，而是强调别裸奔上场
 
 ## 10. 怒可以复喜，亡国不可以复存
-- Source: *Sun Tzu, 火攻篇*
-- Modern use: Do not let anger, wounded pride, or panic drive irreversible moves.
-- Apply when: the user wants revenge, dramatic confrontation, or a message sent in heat.
+- 原句：怒可以复喜，亡国不可以复存
+- 出处：《孙子兵法·火攻篇》
+- 现代解释：生气会过去，但冲动动作的后果未必能收回。情绪不是不能有，但不能当总指挥。
+- 适用场景：用户想报复、拉黑前输出、发长文、公开撕、冲动摊牌时
+- 在这个 skill 里怎么用：当发现用户主要是被羞辱感、愤怒、 panic 驱动时，优先劝停，再做条件判断
+- 为什么成立：很多不可逆损失，都是在“我就这一次说清楚”里发生的
+- 禁误用提醒：不是压抑情绪，而是别让情绪替你做战略决策

@@ -1,166 +1,210 @@
-# Thirty-Six Stratagems for tactical response
+# 三十六计战术层
 
-Use these as the tactical layer. Do not force a stratagem when the fit is weak.
+这份文件是 tactical layer。
 
-For each stratagem, do three things in practice:
-- identify the signal that makes it fit
-- identify the signal that makes it unsafe or unnecessary
-- identify what feedback you expect after using it
+不是让用户硬背计名，而是帮助判断：
+- 现在更适合试探、换场、转向、收缩还是退出
+- 这招为什么贴切
+- 什么时候别乱用
+- 用完后该看什么反馈
 
-If you cannot explain those three points, you probably have not chosen the right tactic.
+如果一条计策说不清“适配信号 / 风险信号 / 预期反馈”，就别硬套。
 
-## 1. 瞒天过海
-- Modern use: Move under ordinary cover. Keep the action low-drama.
-- Good for: reducing resistance by making a step seem routine rather than confrontational.
+---
 
-## 2. 围魏救赵
-- Modern use: Stop attacking the visible problem directly. Pressure the real dependency instead.
-- Good for: workplace conflicts where the stated issue is not the leverage point.
+## 高优先级常用计
 
-## 3. 借刀杀人
-- Modern use: Let structure, policy, timing, or third-party reality do the work, not personal force.
-- Good for: formalizing boundaries through process instead of personal fighting.
-- Caution: do not turn this into revenge or smear behavior.
+### 1. 打草惊蛇
+- 原名：打草惊蛇
+- 现代解释：用轻量动作试反应，不急着正面摊牌
+- 适用场景：想确认对方意图、忠诚、投入、边界，但直接问代价太高
+- 适配信号：用户信息不足；对方态度模糊；直接摊牌会把自己暴露太多
+- 不适用信号：对方模式已经很稳定，答案其实已经摆在那；再试探只是拖延
+- 预期反馈：对方会更清晰、更抗拒，或继续闪躲，三种反馈都比原地猜强
+- 在这个 skill 里怎么用：常用于暧昧、前任回流、职场表面合作但底层不稳的局
+- 禁误用提醒：试探不是阴阳怪气，不是故意钓对方情绪
 
-## 4. 以逸待劳
-- Modern use: Stay composed while the other side overextends, reveals more, or spends energy first.
-- Good for: testing uncertain intent, especially in ambiguous relationships or hot-cold dynamics.
+### 2. 欲擒故纵
+- 原名：欲擒故纵
+- 现代解释：先收一收，看看对方会不会自己补位，而不是永远靠你维持局面
+- 适用场景：忽冷忽热、单边投入、用户一直追着修复或推进时
+- 适配信号：总是用户补位；对方享受模糊或享受被追；关系靠用户单边维持
+- 不适用信号：关系已经明确结束；用户只是想用冷处理惩罚对方
+- 预期反馈：对方要么补位推进，要么继续下沉，后者本身也是答案
+- 在这个 skill 里怎么用：常用于暧昧、情侣冷战、朋友关系失衡
+- 禁误用提醒：收手是为了识别结构，不是为了演消失术
 
-## 5. 趁火打劫
-- Modern use: In this skill, use only the harmless interpretation: act when chaos creates openings, not to exploit suffering.
-- Good for: moving during transition windows when roles, timing, or expectations are unsettled.
+### 3. 釜底抽薪
+- 原名：釜底抽薪
+- 现代解释：别只打症状，直接拆掉反复制造问题的根
+- 适用场景：同类冲突反复发生，根因是结构、依赖、边界、激励没改
+- 适配信号：问题总是循环；每次都像新问题，其实根是同一个
+- 不适用信号：目前还只是一次性误会，尚未形成稳定模式
+- 预期反馈：冲突频率下降，旧触发链条被切断
+- 在这个 skill 里怎么用：常用于领导甩锅、同事抢功、关系里反复失衡
+- 禁误用提醒：不是“一刀切断一切”，而是改掉根因，而不是继续头痛医头
 
-## 6. 声东击西
-- Modern use: Use a side topic, softer entry, or indirect route to reach the real objective.
-- Good for: sensitive conversations where direct attack would cause immediate defense.
+### 4. 金蝉脱壳
+- 原名：金蝉脱壳
+- 现代解释：体面脱身，别把退出做成情绪表演
+- 适用场景：继续纠缠只会增加成本，但用户还想保留体面和边界
+- 适配信号：局已坏、信息已足、继续互动没有新增价值
+- 不适用信号：用户其实还没表达关键边界，或还有重要事项未收口
+- 预期反馈：摩擦下降，对方失去持续消耗你的便利
+- 在这个 skill 里怎么用：常用于烂尾关系、毒性循环、职场无意义拉扯
+- 禁误用提醒：退出不是赌气，不是发完长文再走
 
-## 7. 无中生有
-- Modern use: Usually avoid. In modern interpersonal settings this often becomes bluffing or distortion.
-- Good for: almost never. Mention only to warn against fake narratives.
+### 5. 反客为主
+- 原名：反客为主
+- 现代解释：别一直在对方设定的节奏里反应，要开始设议题、设边界、设规则
+- 适用场景：用户总是被带节奏、被动回应、被迫解释时
+- 适配信号：对方掌控节奏；用户一直在追着修复、解释、补位
+- 不适用信号：用户没有任何筹码，却硬装强势
+- 预期反馈：对话开始围绕用户设定的边界、条件或问题推进
+- 在这个 skill 里怎么用：常用于职场汇报权争夺、情侣修复节奏、暧昧定义权争夺
+- 禁误用提醒：不是虚张声势，而是把主动权从“回应”切回“设题”
 
-## 8. 暗度陈仓
-- Modern use: Build quietly, prepare options, and shift position before announcing anything.
-- Good for: job changes, role repositioning, emotional withdrawal, or boundary reset.
+### 6. 隔岸观火
+- 原名：隔岸观火
+- 现代解释：先看，不急着卷进去，让局自己暴露更多信息
+- 适用场景：局势混乱、多方拉扯、联盟不清、冲突升级前夜
+- 适配信号：当前信息混乱；贸然站队或出手风险高
+- 不适用信号：用户已被明确针对，还以“观察”为名逃避必要动作
+- 预期反馈：谁更急、谁更失控、谁更不稳会慢慢暴露
+- 在这个 skill 里怎么用：常用于办公室站队、朋友三角关系、前任回流观察期
+- 禁误用提醒：观察不是拖延成瘾，信息一旦够就该判断
 
-## 9. 隔岸观火
-- Modern use: Do not rush into every unstable situation. Observe who reveals themselves when pressure rises.
-- Good for: chaos, office conflict, triangle dynamics, and unclear alliances.
+### 7. 擒贼擒王
+- 原名：擒贼擒王
+- 现代解释：别围着表面枝节打转，要直接找到真正决定局势的核心点
+- 适用场景：表面冲突很多，但真正关键的人、点、规则只有一个
+- 适配信号：用户忙着应付表面问题，却没处理真正卡脖子的核心
+- 不适用信号：核心点尚未识别清楚，贸然出手会打偏
+- 预期反馈：一旦打中核心，整个局会明显松动
+- 在这个 skill 里怎么用：常用于同事抢功、领导资源分配、关系里反复绕圈子
+- 禁误用提醒：不是只会“硬刚核心人物”，而是找真正杠杆
 
-## 10. 笑里藏刀
-- Modern use: Usually a warning sign, not a tactic recommendation.
-- Good for: identifying polite hostility or surface warmth hiding competition.
+### 8. 以逸待劳
+- 原名：以逸待劳
+- 现代解释：自己别先乱，对方多动、多说、多暴露，反而更容易看清局
+- 适用场景：对方节奏多变、意图不稳、用户容易被牵着跑时
+- 适配信号：对方还在摇摆；用户再急只会送筹码
+- 不适用信号：局面已经明确需要用户先表态，再等只会继续错失时机
+- 预期反馈：对方会在反复动作里露出真实排序与投入意愿
+- 在这个 skill 里怎么用：常用于忽冷忽热、冷处理、暧昧测试
+- 禁误用提醒：不是躺平不动，而是控制冲动，不抢着先暴露
 
-## 11. 李代桃僵
-- Modern use: Accept a smaller controlled loss to avoid a larger collapse.
-- Good for: tradeoffs, selective retreat, preserving the larger position.
+---
 
-## 12. 顺手牵羊
-- Modern use: Take the small open advantage that already exists instead of forcing a heroic move.
-- Good for: using natural openings, small wins, and low-cost leverage.
+## 次常用辅助计
 
-## 13. 打草惊蛇
-- Modern use: Use a light probe to test reaction before committing.
-- Good for: checking intent, loyalty, interest, or resistance.
-- Fit signal: the user lacks clarity and a direct showdown would cost too much.
-- Unsafe when: the other side has already shown a stable pattern and the answer is effectively known.
-- Expected feedback: the other side either increases clarity, exposes resistance, or keeps dodging.
+### 9. 瞒天过海
+- 现代解释：动作放在日常、自然、低戏剧性的外壳里做
+- 适用场景：需要推进，但不想把动作做得太高调、太对抗
+- 用法提示：适合低噪音推进，不适合重大边界问题的长期回避
 
-## 14. 借尸还魂
-- Modern use: Revive a useful frame, channel, or precedent rather than inventing everything from scratch.
-- Good for: reusing trusted narratives or old successful formats.
+### 10. 围魏救赵
+- 现代解释：别猛打表面问题，去碰真正的依赖点和杠杆点
+- 适用场景：用户一直在解决表象，但根本杠杆不在那
+- 用法提示：特别适合职场资源、协作、权责问题
 
-## 15. 调虎离山
-- Modern use: Shift the other side away from their strongest context.
-- Good for: moving a conflict into a channel, setting, or timing where it is safer to address.
+### 11. 声东击西
+- 现代解释：换个切口进入，不从最敏感的正门撞进去
+- 适用场景：直接切核心会引发防御
+- 用法提示：本质是换路径，不是故弄玄虚
 
-## 16. 欲擒故纵
-- Modern use: Step back to see whether the other side moves toward you on their own.
-- Good for: hot-cold dating dynamics, overpursuit, and testing reciprocity.
-- Fit signal: the user is always the one maintaining momentum.
-- Unsafe when: the relationship is already clearly over or the user is using silence as punishment.
-- Expected feedback: the other side either补位、推进，or lets the connection keep fading.
+### 12. 暗度陈仓
+- 现代解释：先准备新位置、新选项、新边界，再决定何时公开
+- 适用场景：换岗、撤投入、情绪抽离、边界重设
+- 用法提示：适合先准备后表态，不适合长期瞒着拖着
 
-## 17. 抛砖引玉
-- Modern use: Offer a small signal to invite a larger reveal.
-- Good for: low-cost probes, partial disclosure, soft invitations.
+### 13. 李代桃僵
+- 现代解释：接受一个小损失，避免更大的结构性损失
+- 适用场景：取舍、止损、局部退让保全大局
+- 用法提示：关键在“可控小亏”，不是委屈求全
 
-## 18. 擒贼擒王
-- Modern use: Find the actual core issue, decision-maker, or leverage point.
-- Good for: stopping surface-level busywork and hitting the real knot.
+### 14. 顺手牵羊
+- 现代解释：先拿现成的小优势，不必每次都赌大动作
+- 适用场景：已经有自然窗口、小机会、低成本增益
+- 用法提示：适合低成本补位，不适合拿它掩盖真正问题
 
-## 19. 釜底抽薪
-- Modern use: Remove the source of the problem instead of fighting its symptoms.
-- Good for: dependency, repeated triggers, unfair structure, or unclear incentives.
-- Fit signal: the same conflict keeps coming back because the structure never changed.
-- Unsafe when: the issue is still mostly misunderstanding and has not formed a stable pattern.
-- Expected feedback: the conflict frequency drops because the old trigger path is gone.
+### 15. 调虎离山
+- 现代解释：把对方从最强场域拉到更适合处理问题的场域
+- 适用场景：公开场合、熟悉地盘、群体场合里对方更占优势
+- 用法提示：换时间、换渠道、换场域，常比硬碰更值
 
-## 20. 混水摸鱼
-- Modern use: Usually a warning. Opportunism rises in confusion.
-- Good for: spotting manipulation in chaotic scenes.
+### 16. 抛砖引玉
+- 现代解释：先给一点，换更大的真实反馈
+- 适用场景：轻量试探、软邀请、半开放表达
+- 用法提示：重点是“小投入换大信息”
 
-## 21. 金蝉脱壳
-- Modern use: Exit without unnecessary noise.
-- Good for: quiet withdrawal, de-escalation, and preserving dignity.
-- Fit signal: continuing the exchange adds cost but no new information.
-- Unsafe when: the user still needs to state a boundary, collect evidence, or close an important loop.
-- Expected feedback: friction drops, dignity stays, and the other side loses easy access.
+### 17. 假道伐虢
+- 现代解释：借一个更容易进入的话题或通道，抵达真正目标
+- 适用场景：核心话题太硬，不适合直接开门见山
+- 用法提示：适合敏感沟通，不适合长期绕着不说重点
 
-## 22. 关门捉贼
-- Modern use: Contain the issue in a defined space and finish it clearly.
-- Good for: closing loops with firm boundaries once enough evidence exists.
+### 18. 偷梁换柱
+- 现代解释：改评价标准、改讨论框架，让局从坏维度切到有利维度
+- 适用场景：总在情绪、责备、表面是非里打转
+- 用法提示：适合把问题从“谁错”改成“怎么改结构”
 
-## 23. 远交近攻
-- Modern use: Build distant support while carefully handling the nearest friction point.
-- Good for: workplace coalition and resource strategy.
+### 19. 假痴不癫
+- 现代解释：别太早亮全牌，先多看一轮
+- 适用场景：你已经看出一些东西，但还需要更多验证
+- 用法提示：不是装傻，而是控制信息披露
 
-## 24. 假道伐虢
-- Modern use: Use an acceptable pretext or channel to reach the real objective.
-- Good for: hard conversations entered through a safer topic.
+### 20. 树上开花
+- 现代解释：通过表达、包装、 framing，放大自身价值感知
+- 适用场景：提案、自我定位、让自己不再只像默认付出者
+- 用法提示：是放大已有价值，不是虚构价值
 
-## 25. 偷梁换柱
-- Modern use: Reframe the issue by changing the decision criteria.
-- Good for: moving a conversation from blame to process, from emotion to structure.
+### 21. 连环计
+- 现代解释：别指望一招翻盘，用几步小动作逐步改局
+- 适用场景：复杂关系、复杂组织、需要连续修位
+- 用法提示：适合长期修位，不适合幻想一条消息解决一切
 
-## 26. 指桑骂槐
-- Modern use: Usually avoid. Indirect public shaming creates distrust.
-- Good for: warning against passive-aggressive signaling.
+### 22. 走为上计
+- 现代解释：烂局退出，不叫输，叫不再继续加注
+- 适用场景：无解对耗、毒性循环、长期低回报追逐
+- 用法提示：当局面已无值得争取的核心价值时，这就是最优动作
 
-## 27. 假痴不癫
-- Modern use: Do not reveal every conclusion too early.
-- Good for: observing more before showing your full hand.
+---
 
-## 28. 上屋抽梯
-- Modern use: Use only as a warning sign. Trapping people is not a recommended relationship tactic.
+## 主要作为警示，不作为推荐动作的计
 
-## 29. 树上开花
-- Modern use: Use presentation and framing to increase perceived value.
-- Good for: self-positioning, proposal presentation, and controlled signaling.
+这些计在现代关系分析里更多是“识别风险”而不是“鼓励使用”。
 
-## 30. 反客为主
-- Modern use: Shift from reactive to agenda-setting.
-- Good for: reclaiming initiative in conversations, projects, or relationships.
-- Fit signal: the user is constantly responding on the other side’s terms.
-- Unsafe when: the user has no leverage and is trying to bluff control.
-- Expected feedback: the conversation or structure starts following the user's framing instead of the other side’s rhythm.
+### 借刀杀人
+- 更适合作为“借结构和规则办事”的温和版本
+- 禁止引导成报复、抹黑、拉人下水
 
-## 31. 美人计
-- Modern use: Treat as a cautionary historical concept, not a recommendation.
+### 趁火打劫
+- 只保留“混乱窗口中抓机会”的无害解释
+- 禁止鼓励利用他人脆弱或灾难牟利
 
-## 32. 空城计
-- Modern use: Project calm when you cannot afford visible panic.
-- Good for: preserving position under pressure, but do not rely on hollow bluff.
+### 无中生有
+- 主要用于提醒用户警惕虚构叙事、脑补和 bluff
 
-## 33. 反间计
-- Modern use: In interpersonal settings, mainly a warning about rumor and narrative warfare.
+### 笑里藏刀
+- 主要用于识别表面友好、实则竞争或敌意
 
-## 34. 苦肉计
-- Modern use: Usually avoid. Self-damage for leverage easily becomes unhealthy.
+### 混水摸鱼
+- 主要用于识别混乱局中的 opportunism 和操控
 
-## 35. 连环计
-- Modern use: Sequence small moves so each improves the next.
-- Good for: step-by-step repositioning rather than one dramatic gamble.
+### 指桑骂槐
+- 主要用于提醒用户别搞被动攻击和公开羞辱
 
-## 36. 走为上计
-- Modern use: When the board is bad, exit is strategy, not failure.
-- Good for: toxic loops, no-win fights, and repeated low-return pursuit.
+### 上屋抽梯
+- 主要作为风险信号，提醒警惕被困局、被设套
+
+### 美人计
+- 作为历史概念保留，不作为现代关系建议
+
+### 空城计
+- 可用于“稳住表面、不显 panic”，但不鼓励空心 bluff
+
+### 反间计
+- 主要作为对流言、挑拨、叙事战的识别
+
+### 苦肉计
+- 主要用于提醒别通过自伤、自贬、自我牺牲换控制权
