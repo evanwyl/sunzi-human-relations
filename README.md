@@ -1,5 +1,7 @@
 # art-of-war-relations
 
+![art-of-war-relations cover](README-cover.jpg)
+
 用《孙子兵法》与《三十六计》的思路，分析职场、朋友、情侣、暧昧中的局势、主动权、虚实、进退与低成本动作。
 
 这不是鸡汤 skill，也不是操控指南。
